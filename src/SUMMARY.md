@@ -9,5 +9,13 @@
     - [規劃能力與任務分解](./study/planning.md)
     - [多Agent協作與組織智能](./study/multi-agent.md)
     - [工具鏈與生態系](./study/toolchain.md)
-
-    
+- [入門開發](./beginner/intro.md)
+    - [Agent Framework](./beginner/agent-framework.md)
+    - [Agent 設計原則](./beginner/agent-design-principles.md)
+    - [Tool Use 設計模式](./beginner/tool-use-design-pattern.md)
+    - [Agentic RAG](./beginner/agentic-rag.md)
+    - [建構可信賴的 AI 代理](./beginner/trustworthy-ai-agents.md)
+    - [Planning 設計模式](./beginner/planning-design-pattern.md)
+    - [多Agent協作與組織智能](./beginner/multi-agent.md)
+    - [元認知 (Meta-cognition)](./beginner/meta-cognition.md)
+    - [Agent 評估 (Agent Evaluation)](./beginner/agent-evaluation.md)
