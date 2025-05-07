@@ -8,7 +8,6 @@
     - [記憶機制與知識增強](./study/memory.md)
     - [規劃能力與任務分解](./study/planning.md)
     - [多Agent協作與組織智能](./study/multi-agent.md)
-    - [工具鏈與生態系](./study/toolchain.md)
 - [入門開發概念](./beginner/intro.md)
     - [Agent Framework](./beginner/agent-framework.md)
     - [Agent 設計原則](./beginner/agent-design-principles.md)
